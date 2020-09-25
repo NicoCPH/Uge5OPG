@@ -1,0 +1,9 @@
+entities\Person_.class
+entities\Adress.class
+entities\SwimStyle_.class
+entities\SwimStyle.class
+entities\Adress_.class
+entities\Fee.class
+entities\Fee_.class
+entities\Person.class
+entities\Tester.class
